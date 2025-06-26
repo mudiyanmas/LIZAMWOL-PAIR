@@ -1,4 +1,4 @@
-import * as mega from 'megajs';Add commentMore actions
+import  as mega from 'megajs';Add commentMore actions
 
 // Mega authentication credentials
 const auth = {
