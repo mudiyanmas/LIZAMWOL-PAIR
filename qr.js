@@ -99,7 +99,7 @@ contextInfo: {
 externalAdReply: {
 title: "𝙻ιzα мωσℓ 𝕮𝖔𝖓𝖓𝖊𝖈𝖙𝖊𝖉",
 thumbnailUrl: "https://files.catbox.moe/zu92j8.jpg",
-sourceUrl: "https://whatsapp.com/channel/0029VbAtIuR8vd1H5FSip426,
+sourceUrl: "https://whatsapp.com/channel/0029VbAtIuR8vd1H5FSip426",
 mediaType: 1,
 renderLargerThumbnail: true
 }  
